@@ -1,2 +1,1 @@
-# arduino
-Arduino board files
+# Arduino Board Files
